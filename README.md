@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MohimaKibria
 - 👀 I’m interested in collaborating with software developers.
-- 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on projects
-- 📫 Reach me @kibriam656@macomb.edu
+- 📫 Reach me @hd4966@wayne.edu
 
 
 <!---
